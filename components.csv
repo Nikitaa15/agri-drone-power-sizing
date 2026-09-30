@@ -1,0 +1,6 @@
+type,id,name,kv,cells_min,cells_max,max_thrust_kg,tow_min_kg,tow_max_kg,eff_g_per_w_min,eff_g_per_w_max,weight_g,nominal_v,cells,capacity_mah,source_url
+motor,x6-plus,Hobbywing X6 Plus 150KV + 2480 prop,150,12,14,11.8,3.5,5.5,,,790,,,,https://bharatskytech.com/product/hobbywing-x6-plus-motor-agriculture-drones/
+motor,x9-g2l-3611,Hobbywing X9 G2L 110KV + 3611 prop,110,12,14,24,7,12,,,1532,,,,https://bharatskytech.com/product/hobbywing-x9-g2l-motor-with-3611-propeller-combo/
+motor,x9-plus-g2l-4314,Hobbywing X9 Plus G2L 80KV + 4314 prop,80,12,14,28,12,14,8.0,8.6,1852,,,,https://bharatskytech.com/product/hobbywing-x9-plus-g2l-motor-with-4314-propeller-combo/
+battery,evercell-6s-22000,Evercell 6S 22000mAh 10C/25C LiPo (Make in India),,,,,,,,,2550,22.2,6,22000,https://bharatskytech.com/product/evercell-6s-22-2v-22000mah-25c-lipo-battery-for-drone/
+battery,herewin-6s-22000,Herewin 6S 22000mAh 25C LiPo,,,,,,,,,,22.2,6,22000,https://bharatskytech.com/product/herewin-6s-22-2v-22000mah-25c-lipo-battery-for-agriculture-drones/
